@@ -14,12 +14,51 @@
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
+
 }
 
+.header__title{
+  display: flex;
+  align-self: center;
+  width: 730px;
+  margin-left:64px;
+
+
+}
+
+.header__subtitle{
+  position: absolute;
+  z-index: 1;
+  width: 388px;
+  margin:0 0 30px 64px;
+
+
+}
+
+.header__link{
+
+}
+
+.header__main-illustration{
+
+}
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
 .header__square-pic {
   height: 568px;
   width: 568px;
+  color:#2f80ed;
+}
+
+.logo{
+  width: 154px;
+  height: 31px;
+}
+
+.logo_place_header{
+  position:absolute;
+  top:30px;
+  left:64px;
+  z-index:1;
 }
 
 /* including elements with key-value modifiers */
