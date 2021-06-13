@@ -152,22 +152,24 @@
   display:flex;
   flex-wrap:wrap;
   width: 1100px;
-
+  justify-content: space-around;
+  list-style-type: none;
 }
 
 .table__cell{
-  width 250px;
-
+  width: 250px;
 }
 
 .table__heading{
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  margin-bottom:20px;
 }
 
 .table__text{
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+
 }
