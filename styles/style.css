@@ -293,6 +293,7 @@
   height: 660px;
   width: 636px;
   z-index:0;
+  background-image:url(./images/kaufman-triangle.svg);
 }
 
 /*footer block styles*/
