@@ -39,6 +39,7 @@
 /*Footer Block*/
 @import url(../blocks/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__column/footer__columns.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_about.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
