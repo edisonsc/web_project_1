@@ -4,4 +4,5 @@
   flex-wrap: wrap;
   justify-content: left;
   gap: 0 100px;
+  margin:0;
 }
