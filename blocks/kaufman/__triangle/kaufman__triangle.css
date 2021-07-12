@@ -1,9 +1,9 @@
 .kaufman__triangle{
-  position:absolute;
+  position: absolute;
   right:-124px;
-  height: 660px;
-  width: 636px;
-  z-index:0;
+  height: 636px;
+  width: 660px;
+ /* z-index:0;*/
   background-image:url("/images/kaufman-triangle.svg");
   background-repeat: no-repeat;
 }
