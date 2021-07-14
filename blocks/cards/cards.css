@@ -5,4 +5,6 @@
   justify-content: left;
   gap: 60px 100px;
   margin:0;
+  padding: 0;
+  text-decoration: none;
 }
