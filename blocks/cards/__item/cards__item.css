@@ -1,10 +1,5 @@
 .cards__item{
   display: flex;
   flex-direction: column;
-  margin: 0 0 60px 0;
   width: 240px;
-}
-
-.cards__item:last-of-type{
-  margin: 0;
 }

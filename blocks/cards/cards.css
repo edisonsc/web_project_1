@@ -3,6 +3,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
-  gap: 0 100px;
+  gap: 60px 100px;
   margin:0;
 }
